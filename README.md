@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yaquz
+- 👀 I’m interested in web-developing
+- 🌱 I’m currently learning js and php
+- 📫 How to reach me ...
+- 😄 Pronouns: she/her
